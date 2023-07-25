@@ -9,6 +9,7 @@ r*.pdb : Structures in the first bank<br/>
 b*.pdb : Structures in the final bank<br/>
 gmin.pdb : The best model among the final bank structure
 
+Cryo-EM maps for 2513A, 3231K, 5495A, 5764A, 5778A, 5925A, 6374D, and 6555A are available.
 
 ---
 **Application of conformational space annealing to the protein structure modeling using Cryo-EM maps**
